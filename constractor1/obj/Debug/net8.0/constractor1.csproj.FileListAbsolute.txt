@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\bin\Debug\net8.0\constractor1.exe
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\bin\Debug\net8.0\constractor1.deps.json
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\bin\Debug\net8.0\constractor1.runtimeconfig.json
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\bin\Debug\net8.0\constractor1.dll
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\bin\Debug\net8.0\constractor1.pdb
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\constractor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\constractor1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\constractor1.AssemblyInfo.cs
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\constractor1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\constractor1.sourcelink.json
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\constractor1.dll
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\refint\constractor1.dll
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\constractor1.pdb
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\constractor1.genruntimeconfig.cache
+C:\Users\user\Desktop\.NetTasks\constractor1\constractor1\obj\Debug\net8.0\ref\constractor1.dll
